@@ -1,4 +1,4 @@
-package Level2.Logical;
+package Level_2.Logical;
 
 public class types {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Level2.Arithmetic;
+package Level_2.Arithmetic;
 import java.util.*;
 public class Binary {
     public static void main(String[] args){

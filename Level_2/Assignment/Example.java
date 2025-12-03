@@ -1,4 +1,4 @@
-package Level2.Assignment;
+package Level_2.Assignment;
 
 public class Example {
     public static void main(String [] args){
